@@ -1,0 +1,13 @@
+.bigCounter{
+    text-align: center;
+    background: black;
+}
+.bigCounter div{
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+    background: #1e69ff;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 3px;
+}
